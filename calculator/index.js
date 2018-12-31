@@ -53,4 +53,4 @@ function division(lhs, rhs){
   return lhs / rhs;
 }
 
-module.exports = { calculate , addition, subtraction, multiplication, division};
+module.exports =  calculate ;
